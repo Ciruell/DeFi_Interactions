@@ -1,9 +1,12 @@
-# Standard Readme Style _(standard-readme)_
-
 I Created this repository trying to interact with the DeFi as a newbie:
     sharing there my accomplishments.
 These files/functions can be used in building more complex programs like:
     data scraping/data manipulation, arbitrage bots, frontrunning bots and more...
+
+AS OF TODAY YOU CAN FIND:
+Price Scraping of a desired Pair of token from UniSwap and SushiSwap on Ethereum Chain.
+Price Scraping of a desired Pair of token from SaucerSwap on Hedera Chain.
+
 
 **PLEASE BE ADVISED:**
 Some can be outdated, please do not only build on my files and DO YOUR OWN RESEARCHES!
