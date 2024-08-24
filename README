@@ -6,5 +6,7 @@ These files/functions can be used in building more complex programs like:
 **PLEASE BE ADVISED:**
 Some can be outdated, please do not only build on my files and DO YOUR OWN RESEARCHES!
 
-To get started install all the dependecies like web3 (pip install web3).
+TO GET STARTED:
+Install all the dependecies like web3 (pip install web3).
 If you are getting errors try to change the compilator or the compilator version.
+Change the EndPoints with yours.
