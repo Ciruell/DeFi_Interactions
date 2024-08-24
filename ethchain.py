@@ -2,7 +2,7 @@ from web3 import Web3
 import time
 
 # URL Infura
-infura_url = 'https://mainnet.infura.io/v3/de3c6dd9768242f493b168a9f04a54b3' #Scrivi qua il tuo nodo Infura o cambia col tuo nome del tuo endpoint
+infura_url = 'https://mainnet.infura.io/v3/.........' #Scrivi qua il tuo nodo Infura o cambia col tuo nome del tuo endpoint
 web3 = Web3(Web3.HTTPProvider(infura_url))
 
 if web3.is_connected():
