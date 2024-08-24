@@ -3,7 +3,7 @@ I Created this repository trying to interact with the DeFi as a newbie:
 These files/functions can be used in building more complex programs like:
     data scraping/data manipulation, arbitrage bots, frontrunning bots and more...
 
-PLEASE BE ADVISED:
+**PLEASE BE ADVISED:**
 Some can be outdated, please do not only build on my files and DO YOUR OWN RESEARCHES!
 
 To get started install all the dependecies like web3 (pip install web3).
